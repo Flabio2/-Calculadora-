@@ -1,0 +1,35 @@
+             cuerpo               {
+                 Pantalla :                flex;
+                    justificar el contenido:                 Centro;
+                          alinear artículos:                        Centro;
+ Altura:  100 vh;
+ color de fondo: #f0f0f0; 
+}
+
+                      .calculadora                        {
+ Anchura:  <200 px;
+ color de fondo: #fff; 
+ Radio de frontera: 5 px;
+                           relleno :   20                       px;
+                            sombra de caja:  0 0 10                        px rgba(0,  0,  0,  0.1);
+}
+
+.display {
+ Anchura:    <100%                     ;                       
+ Altura  > 40 Altura  > 40 
+                               margen inferior:  20                           px;
+ texto-alinear:  texto-alinear                      :                        texto-alinear                    :                      Derecho;
+ acolchado derecho:  10 px;
+                              Tamaño de la caja:                            Bolsa;
+}
+
+                         .botones.                           {
+                            Pantalla :                           Grid;
+                             Columnas de plantilla de cuadrícula:                           Repetir(                         ,                           );
+                            brecha:  10                        px;
+}
+
+                        botón                          {
+ Altura  > 40 px;
+                             Tamaño de la fuente:  18                         px;
+}
